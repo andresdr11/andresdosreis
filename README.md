@@ -1,27 +1,62 @@
-# Hello, I'm Andrés Dos Reis Ramírez! 👋
+# Andrés Dos Reis Ramírez
 
-I'm a Business Intelligence Intern at Playtomic, specializing in leveraging data for actionable insights and innovations in analytics.
+![Business Intelligence Intern at Playtomic](https://img.shields.io/badge/Business%20Intelligence%20Intern-Playtomic-brightgreen)
+![Data Science Student at IMF Smart Education](https://img.shields.io/badge/Data%20Science%20Student-IMF%20Smart%20Education-blue)
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Andrés%20Dos%20Reis%20Ramírez-blue?logo=linkedin&link=https://www.linkedin.com/in/andres-dos-reis-ramirez/)
 
-## 🔧 Technologies & Tools
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img alt="Looker Studio" src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white"/>
-</p>
+## About Me
 
-## 📝 Featured Projects
-- [Income Generating Customer Classification Model](your-github-link) - Utilizing Neural Networks for predictive analytics.
-- [Client Clustering K-means](your-github-link) - Customer segmentation using KMeans.
-- [Credit Risk Prediction](your-github-link) - Credit default risk modeling.
-- [Salaries Predictor ML](your-github-link) - Salary predictions through machine learning.
-- [M30 Madrid Traffic Analysis](your-github-link) - Traffic pattern analysis using time-series data.
+I'm an economist passionate about extracting actionable insights from complex datasets. I have a keen interest in leveraging technology, automation, machine learning, predictive analysis, and Big Data to optimize processes and fuel innovation. With experience at top consulting firms (Ernst & Young), major banks (BBVA), and software development companies (Playtomic), I've enhanced my analytical and problem-solving skills. I'm committed to continuous learning and professional development, open to new challenges.
 
-Explore my projects and let's connect to discuss potential collaborations!
+## Skills
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white)
+
+## Projects
+
+### [Income Generating Customer Classification Model](https://github.com/AndresDosReis/Income-Generating-Customer-Classification)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+Developed 3 predictive models (Neural Networks, Random Forests, and Logistic Regression Model) to accurately forecast customers that generate revenue for a retail company's online platform. Concluded that Neural Networks is the most accurate for predicting revenue streams, offering actionable insights to optimize marketing strategies and enhance revenue generation.
+
+### [Client Clustering with K-means](https://github.com/AndresDosReis/Client-Clustering-Kmeans)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+Implemented a clustering solution using the KMeans algorithm to segment wholesale customers. Determined the optimal number of clusters using the elbow method and visualized cluster distributions to interpret cluster behavior effectively.
+
+### [Credit Risk Prediction ML](https://github.com/AndresDosReis/Credit-Risk-Prediction)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+Built a predictive model using MLPClassifier (neural network) to forecast the probability of default. Conducted in-depth analysis of credit risk data using Python, and generated informative visualizations to unveil key insights, evaluating model performance with accuracy, sensitivity, and precision metrics.
+
+### [Salaries Predictor ML](https://github.com/AndresDosReis/Salaries-Predictor)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+
+Utilized machine learning techniques with Python to predict salaries based on demographic and professional data. Generated comprehensive visualizations using Matplotlib and Seaborn to elucidate key insights, aiming to predict whether an individual's annual income exceeds $50,000.
+
+### [M30 Madrid Traffic Time-Series Analysis](https://github.com/AndresDosReis/Madrid-Traffic-Analysis)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Altair](https://img.shields.io/badge/-Altair-ffffff?logo=altair&logoColor=black)
+
+Explored time-series data with Python, creating insightful visualizations using Altair. Unveiled traffic patterns for informed decision-making, investigating how traffic changes throughout the day and across different days of the week.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/andres-dos-reis-ramirez/)
+- Email: andres@example.com
