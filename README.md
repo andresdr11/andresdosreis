@@ -1,7 +1,6 @@
- Andrés Dos Reis Ramírez
-
-![Business Intelligence Intern at Playtomic](https://img.shields.io/badge/Business%20Intelligence%20Intern-Playtomic-brightgreen)
-![Data Science Student at IMF Smart Education](https://img.shields.io/badge/Data%20Science%20Student-IMF%20Smart%20Education-blue)
+ 
+![Business Intelligence Intern at Playtomic](https://img.shields.io/badge/Business%20Intelligence%20Intern-Playtomic-brightgreen?style=for-the-badge&logo=business&logoColor=white)
+![Data Science Student at IMF Smart Education](https://img.shields.io/badge/Data%20Science%20Student-IMF%20Smart%20Education-blue?style=for-the-badge&logo=school&logoColor=white)
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Andrés%20Dos%20Reis%20Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-dos-reis-ramirez/)
 
@@ -16,9 +15,4 @@ I'm an economist passionate about extracting actionable insights from complex da
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-239120?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?s
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/andres-dos-reis-ramirez/)
-- Email: andres@example.com
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
