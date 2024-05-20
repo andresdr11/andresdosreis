@@ -42,17 +42,17 @@ Welcome to my GitHub space where data meets innovation! 🚀
 
 ## 💡 Languages and Tools:
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/pandas-icon.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/numpy-icon.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VSCode" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/pycharm-icon.svg" alt="PyCharm" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/jupyter-icon.svg" alt="Jupyter" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
 </div>
 
 ## Contact
