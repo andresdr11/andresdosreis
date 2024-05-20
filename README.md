@@ -1,4 +1,4 @@
-# Hey, I'm Andrés Dos Reis Ramírez! 👋
+ # Hey, I'm Andrés Dos Reis Ramírez! 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/andres-dos-reis-ramirez/">
@@ -18,6 +18,21 @@ Welcome to my GitHub space where data meets innovation! 🚀
 - 🌱 **Currently Learning:** Advanced ML techniques, Data Visualization, Big Data Technologies
 - 👯 **Looking to Collaborate On:** Data-driven projects that drive business innovation
 - 💬 **Ask Me About:** Data Science, Machine Learning, Python, SQL, Business Intelligence
+
+## 💡 Languages and Tools:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
+</div>
 
 ## 🛠️ Projects
 1. **[Income Generating Customer Classification Model](https://github.com/AndresDosReis/Income-Generating-Customer-Classification):** 
@@ -39,21 +54,6 @@ Welcome to my GitHub space where data meets innovation! 🚀
 5. **[M30 Madrid Traffic Time-Series Analysis](https://github.com/AndresDosReis/Madrid-Traffic-Analysis):** 
    - Analyzed time-series traffic data.
    - Created visualizations to uncover traffic patterns for informed decision-making.
-
-## 💡 Languages and Tools:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
-</div>
 
 ## Contact
 
