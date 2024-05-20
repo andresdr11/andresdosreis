@@ -1,9 +1,14 @@
-# Andrés Dos Reis Ramírez
+# Hey, I'm Andrés Dos Reis Ramírez! 👋
 
-![Business Intelligence Intern at Playtomic](https://img.shields.io/badge/Business%20Intelligence%20Intern-Playtomic-brightgreen?style=for-the-badge&logo=business&logoColor=white)
-![Data Science Student at IMF Smart Education](https://img.shields.io/badge/Data%20Science%20Student-IMF%20Smart%20Education-blue?style=for-the-badge&logo=school&logoColor=white)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/andres-dos-reis-ramirez/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Andrés%20Dos%20Reis%20Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-dos-reis-ramirez/)
+<a href="mailto:andres@example.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/andres-dos-reis-ramirez/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+
+Welcome to my GitHub space where data meets innovation! 🚀
 
 ## About Me
 
