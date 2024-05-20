@@ -50,9 +50,9 @@ Welcome to my GitHub space where data meets innovation! 🚀
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55" height="55"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" title="scikit-learn" alt="scikit-learn" width="55" height="55"/>
 </p>
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés%20Dos%20Reis%20Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-dos-reis-ramirez/)
-
