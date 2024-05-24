@@ -9,7 +9,7 @@
   </a>
 </div>
 
-Welcome to my GitHub space where data meets innovation! 🚀
+Welcome to my GitHub space!
 
 ## 🌟 About Me
 - 💼 **Current Role:** Business Intelligence Intern at Playtomic
