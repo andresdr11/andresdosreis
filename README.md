@@ -35,23 +35,24 @@ Welcome to my GitHub space!
 </div>
 
 ## 🛠️ Projects.head(5)😉 
-1. **[Income Generating Customer Classification Model](https://github.com/AndresDosReis/Income-Generating-Customer-Classification):** 
-   - Developed predictive models (Neural Networks, Random Forests, Logistic Regression) to forecast revenue-generating customers.
-   - Optimized marketing strategies based on actionable insights.
+1. **[Income Generating Customer Classification Model](https://github.com/andresdr11/Income-Generating-Customer-Prediction-Model):** 
+   - Developed 3 predictive models (Neural Networks, Random Forests, Logistic Regression) to forecast revenue-generating customers.
+   - Enden up selecting Neural Networks as the most effective model acheving a ROC(AUC) of 0.90 and 85% accuracy.
 
-2. **[Client Clustering with K-means](https://github.com/AndresDosReis/Client-Clustering-Kmeans):** 
-   - Implemented KMeans clustering to segment wholesale customers.
+2. **[Client Clustering with K-means](https://github.com/andresdr11/Client_Clustering_K-means):** 
+   - Implemented KMeans clustering unsupervised model to segment wholesale customers.
    - Visualized cluster characteristics and distributions.
 
-3. **[Credit Risk Prediction ML](https://github.com/AndresDosReis/Credit-Risk-Prediction):** 
-   - Built a predictive model to forecast default probabilities.
+3. **[Pre-Owned Cars Price Ml Prediction](https://github.com/andresdr11/Pre_Owned_Cars_Price_Prediction):**
+   - Developed a predictive model for second-hand car prices using Python and the CRISP-DM methodology, featuring linear regression,
+     neural networks, and a superior-performing stacking model.
+   - This project aimed to enhance VALTEL's app services by providing competitive rate comparisons for users.
+
+4. **[Credit Risk Prediction ML](https://github.com/andresdr11/Credit_Risk_Prediction_ML):** 
+   - Built a predictive model to forecast default probabilities with MLP Neural Networks classifier model.
    - Analyzed credit risk data and evaluated model performance.
 
-4. **[Salaries Predictor ML](https://github.com/AndresDosReis/Salaries-Predictor):** 
-   - Utilized machine learning to predict salaries based on demographic and professional data.
-   - Generated key insights for financial planning.
-
-5. **[M30 Madrid Traffic Time-Series Analysis](https://github.com/AndresDosReis/Madrid-Traffic-Analysis):** 
+5. **[M30 Madrid Traffic Time-Series Analysis](https://github.com/andresdr11/Trafico_M30_Madrid):** 
    - Analyzed time-series traffic data.
    - Created visualizations to uncover traffic patterns for informed decision-making.
 
