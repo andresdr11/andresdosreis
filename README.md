@@ -57,4 +57,4 @@ Welcome to my GitHub space!
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés%20Dos%20Reis%20Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-dos-reis-ramirez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés%20Dos%20Reis%20Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresdosreis11/)
