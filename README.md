@@ -34,7 +34,7 @@ Welcome to my GitHub space!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
 </div>
 
-## 🛠️ Projects
+## 🛠️ Projects.head(5)😉 
 1. **[Income Generating Customer Classification Model](https://github.com/AndresDosReis/Income-Generating-Customer-Classification):** 
    - Developed predictive models (Neural Networks, Random Forests, Logistic Regression) to forecast revenue-generating customers.
    - Optimized marketing strategies based on actionable insights.
