@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/andresdosreis11/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:andresdosreisramirez@gmail.com">
+  <a href="andresdosreisramirez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
@@ -56,6 +56,3 @@ Welcome to my GitHub space!
    - Analyzed time-series traffic data.
    - Created visualizations to uncover traffic patterns for informed decision-making.
 
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés%20Dos%20Reis%20Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresdosreis11/)
