@@ -1,4 +1,4 @@
- # Hey, I'm Andrés Dos Reis Ramírez! 👋
+ # Hey, I'm Andrés Dos Reis! 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/andresdosreis11/">
