@@ -12,12 +12,12 @@
 Welcome to my GitHub space!
 
 ## 🌟 About Me
-- 💼 **Current Role:** Business Intelligence Intern at Playtomic
+- 💼 **Current Role:** Business Intelligence Specialist at Playtomic
 - 🎓 **Education:** Data Science student at IMF Smart Education | Bachelor's in Economics
 - 🔍 **Focus Areas:** Machine Learning, Predictive Analysis, Big Data, and Automation
-- 🌱 **Currently Learning:** Advanced ML techniques, Data Visualization, Big Data Technologies
+- 🌱 **Currently Learning:** Advanced ML/DL techniques, Data Visualization, Big Data Technologies
 - 👯 **Looking to Collaborate On:** Data-driven projects that drive business innovation
-- 💬 **Ask Me About:** Data Science, Machine Learning, Python, SQL, Business Intelligence
+- 💬 **Ask Me About:** Data Science, Computer Vision, ML/DL, Python, SQL, Business Intelligence
 
 ## 💡 Languages and Tools:
 <div align="center">
